@@ -1,6 +1,1 @@
-<h1>Fuente Blackghost/</h1>
-<li><a href="repository.theblackghost.zip">Repo</a> </li>
-
-
-	
-<pr>
+<a href="repository.theblackghost.zip">Repo</a>
